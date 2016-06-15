@@ -12,7 +12,7 @@ I am continuing to update this space with sketches that seem worth saving.  Unfo
 #### Markov Fractal
 Generates "fractals" (incorrect terminology, certainly) using a swarm of ants.  The ants leave trails, and are each driven by a Markov chain state machine.  By pressing the numbers 1-9, you can change the transition probabilities which drive the ants, thus changing the overall shape they make. (Note that these are _not_ [Langton's ants](https://en.wikipedia.org/wiki/Langton%27s_ant), but they take some inspiration there.)
 
-![](assets/markovfractal.png "Markov Fractal")
+![asdf](assets/markovfractal.png "Markov Fractal")
 
 
 ### life
