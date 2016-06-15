@@ -14,10 +14,12 @@ Generates "fractals" (incorrect terminology, certainly) using a swarm of ants.  
 
 <img src="assets/markovfractal.png" align=left>
 
+
 ### life
 Classic Conway's game of life, sped up a bit.  I am also playing with a variant known as smooth life.
 
 <img src="assets/life.png" align=left>
+
 
 ### OneDCA
 A simple template to run 1-dimensional cellular automata.  Each horizontal line of pixels is a generation, and the first generation starts at the top of the window.  In its current form it produces the [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle).
