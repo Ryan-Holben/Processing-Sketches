@@ -13,12 +13,11 @@ I am continuing to update this space with sketches that seem worth saving.  Unfo
 Generates "fractals" (incorrect terminology, certainly) using a swarm of ants.  The ants leave trails, and are each driven by a Markov chain state machine.  By pressing the numbers 1-9, you can change the transition probabilities which drive the ants, thus changing the overall shape they make. (Note that these are _not_ [Langton's ants](https://en.wikipedia.org/wiki/Langton%27s_ant), but they take some inspiration there.)
 ![](assets/markovfractal.png)
 
-### life
+### Life
 Classic Conway's game of life, sped up a bit.  I am also playing with a variant known as smooth life.
-
-<img src="assets/life.png" align=left>
-
+![]("assets/life.png")
 
 ### OneDCA
 A simple template to run 1-dimensional cellular automata.  Each horizontal line of pixels is a generation, and the first generation starts at the top of the window.  In its current form it produces the [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle).
-<img src="assets/OneDCA.png" align=left>
+
+![](assets/OneDCA.png)
